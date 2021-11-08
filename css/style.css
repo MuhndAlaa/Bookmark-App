@@ -1,0 +1,16 @@
+.bg-grey
+{
+    background-color: #eee;
+}
+
+.bg-blue
+{
+    background-color: #031b2b;
+}
+
+.title
+{
+    color: #e89c31;
+    font-family: 'Bad Script', cursive;
+    font-size: 5rem;
+}
